@@ -13,10 +13,10 @@ const Home = () => {
   return (
     <>
     <Intro />
-    {/*<About />
+    <About />
     <Portfolio />
     <Skills />
-    <Contact />*/}
+    <Contact />
     </>
   )
 }
